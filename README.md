@@ -11,7 +11,7 @@ O desafio consite em criar uma aplicação frontend com NextJs que consome uma a
 
 ## Requisitos para rodar a aplicação
 
-- NodeJs (>20)
+- NodeJs (>=20)
 - NextJs
 
 ## Rodando a aplicação
